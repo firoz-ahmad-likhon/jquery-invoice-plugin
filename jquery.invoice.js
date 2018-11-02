@@ -3,7 +3,7 @@
  *	                                           
  * Version 1.0, January - 2016	           
  * Author: Firoz Ahmad Likhon <likh.deshi@gmail.com>               
- * Website: https://github.com/likhonlikh 
+ * Website: http://github.com/firoz-ahmad-likhon
  *                                            
  * Copyright (c) 2016 Firoz Ahmad         
  * Released under the MIT license
